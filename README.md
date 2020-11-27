@@ -1,2 +1,2 @@
 # shopify-admin-logs
-Pull admin activity using graphQL
+Pull Shopify admin activity using graphQL.
