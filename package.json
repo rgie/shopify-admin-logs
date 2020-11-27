@@ -1,0 +1,23 @@
+{
+  "name": "shopify-admin-logs",
+  "version": "1.0.0",
+  "description": "Pull admin activity from Shopify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgie/shopify-admin-logs.git"
+  },
+  "keywords": [
+    "shopify",
+    "admin"
+  ],
+  "author": "rsaberon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rgie/shopify-admin-logs/issues"
+  },
+  "homepage": "https://github.com/rgie/shopify-admin-logs#readme"
+}
